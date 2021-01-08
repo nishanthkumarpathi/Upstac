@@ -17,4 +17,4 @@
  Start Front End: yarn start
  
  Backend Start by running the UpstacApplication Class.
-### Note: Make sure MYSQL server is running and update the database in application.properties
+##### Note: Make sure MYSQL server is running and update the database in application.properties
